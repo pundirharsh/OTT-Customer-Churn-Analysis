@@ -43,9 +43,8 @@ Streaming platforms lose customers every month, and that costs real revenue. Thi
 ### Charts
 
 **Monthly churn trend** — spotting when cancellations spiked
-![Monthly Churn Trend](images/monthly_churn_trend.png)
-<img width="692" height="315" alt="monthly_churn_trend" src="https://github.com/user-attachments/assets/6a4ef8c6-baf9-4a7a-8587-721aa18dfdcb" />
-
+![Monthly Churn Trend](<img width="692" height="315" alt="monthly_churn_trend" src="https://github.com/user-attachments/assets/f00294c4-8fcf-42ae-aa5a-9e2fbafef04a" />
+)
 
 **Churn rate by plan type** — Basic plan customers cancel the most
 ![Churn Rate by Plan Type](images/churn_rate_by_plan.png)
