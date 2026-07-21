@@ -40,20 +40,6 @@ Streaming platforms lose customers every month, and that costs real revenue. Thi
 - Customers who raise **support complaints** are more likely to cancel — more complaints, higher risk.
 - Cancellations cost the company about **18% of total revenue**.
 
-### Charts
-
-**Monthly churn trend** — spotting when cancellations spiked
-![Monthly Churn Trend](<img width="692" height="315" alt="monthly_churn_trend" src="https://github.com/user-attachments/assets/f00294c4-8fcf-42ae-aa5a-9e2fbafef04a" />
-)
-
-**Churn rate by plan type** — Basic plan customers cancel the most
-![Churn Rate by Plan Type](images/churn_rate_by_plan.png)
-
-**Churn rate by state** — Karnataka stands out
-![Churn Rate by State](images/churn_rate_by_state.png)
-
-**What's related to churn** — complaints and churn score move together
-![Correlation Heatmap](images/correlation_heatmap_2.png)
 
 ## ✅ What I'd Recommend Doing Next
 
