@@ -71,4 +71,5 @@ These were joined together into a single dataset so patterns across all three ar
 
 Aspiring Data Analyst with hands-on experience in Python, SQL, and data visualization, passionate about turning raw data into actionable business insights.
 
-📧 Email: *add your email here*   🔗 LinkedIn: *add your LinkedIn here*   💻 Portfolio: *add your portfolio link here*
+📧 Email: *harshavardhanpundir332@gmail.com*
+💻 Portfolio: *[add your portfolio link here](https://pundirharsh.github.io/harsh-portfolio/)*
