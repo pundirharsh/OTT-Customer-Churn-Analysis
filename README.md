@@ -1,6 +1,7 @@
 # 📉 OTT Customer Churn Analysis
 
 An end-to-end data analysis project that finds out why customers cancel their subscription on a streaming (OTT) platform, and which customers are likely to cancel next — using SQL and Python.
+
 <img width="1360" height="600" alt="project_banner" src="https://github.com/user-attachments/assets/e1491416-de93-400b-afde-77b3f0dbc364" />
 
 ---
